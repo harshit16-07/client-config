@@ -1,2 +1,3 @@
-BUILD_NAME=Github dev
-BUILD_VERSION=6.7.8
+BUILD:
+  NAME: Github 
+  VERSION: 6.7.8
